@@ -1,20 +1,37 @@
-LA245 Prototyp
-Matteo Jakob I21a, 18.3.2024
+# LA245 Prototyp
 
-Inhaltsverzeichnis
+Matteo Jakob, I21a, 18.3.2024
 
-Problembeschreibung
+## Inhaltsverzeichnis
+
+1. [Problembeschreibung](#problembeschreibung)
+2. [Anforderungen](#anforderungen)
+3. [Art und Vorgehensweise](#art-und-vorgehensweise)
+4. [Resultat](#resultat)
+5. [Fazit](#fazit)
+6. [Reflexion](#reflexion)
+
+### Problembeschreibung
+
 123
 
-Anforderungen Prototyp
+### Anforderungen
+
 123
 
-Art und Vorgehensweise Prototyping
+### Art und Vorgehensweise
+
 123
 
-Resultat
+### Resultat
 
 In der Dokumentation oder verlinkt.
 Sie können da auch Printscreens, Fotos usw. einsetzen.
 
-Fazit und reflexion
+### Fazit
+
+1234
+
+### Reflexion
+
+1235
