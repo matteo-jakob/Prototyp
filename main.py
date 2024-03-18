@@ -52,7 +52,7 @@ else:
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": system_content},
-            {"role": "user", "content": f"The user didn't do any workouts beforehand. Create a workout plan for 7 days including the following equipment if provided: #{workout_equipment}#.  Your answer should be nicely formatted by seperating each day. Make sure the workout is fit for the average male. Here is additional information the user may have provided: #{workout_preferences}#"}
+            {"role": "user", "content": f"The user didn't do any workouts beforehand. Create a workout plan for 7 days including the following equipment if provided: #{workout_equipment}#.  Your answer should be nicely formatted by seperating each day. Make sure the workout is fit for the average male if not declared otherwise. Here is additional information the user may have provided: #{workout_preferences}#"}
         ]
     )
     print(completion.choices[0].message.content)
