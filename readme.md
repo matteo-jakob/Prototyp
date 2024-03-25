@@ -15,6 +15,13 @@ Matteo Jakob, I21a, 25.03.2024
 
 Eine Home-Gym-App verliert an Relevanz aufgrund der Konkurrenz. Da es hunderte Alternativen gibt, ist der Benutzer nicht dazu geneigt, genau unsere App herunterzuladen. Es braucht eine Innovation: Personalisierte Workouts.
 
+Es gibt also einen Online Coach, welcher personalisierte Trainings anbietet.
+Um heraus zu stechen darf die App sich auf den jeweiligen Benutzer anpassen, indem er;
+
+- Workouts erhaltet, welches seinem Niveau entspricht, also die anzahl Reps und Sets grösser oder kleiner werden.
+- Spezifische Workouts für spezifische Muskelgruppen bekommt, die evt. Nicht genug entwickelt sind oder einfach des Benutzers Interesse entsprechen.
+- Wochenplanung, wie oft und wie lange die Trainings anhalten sollen.
+
 ### Anforderungen
 
 | Nr. | Muss/kann | Funktional/Qualität/Rand | Bschreibung                                                                                                                     |
@@ -24,6 +31,8 @@ Eine Home-Gym-App verliert an Relevanz aufgrund der Konkurrenz. Da es hunderte A
 | 3   | Muss      | Funktional               | Der Nutzer kann eigene Trainingsgeräte hinzufügen                                                                               |
 | 4   | Kann      | Funktional               | Dem Nutzer werden Fragen gestellt, somit er genauere Daten geben kann                                                           |
 | 5   | Kann      | Rand                     | Programmierumgebung Python                                                                                                      |
+| 6   | Kann      | Funktional               | Der Nutzer kann die Länge der Workouts angeben                                                                                  |
+| 7   | Kann      | Funktional               | Der Nutzer kann Muskelgruppen angeben                                                                                           |
 
 ### Art und Vorgehensweise
 
